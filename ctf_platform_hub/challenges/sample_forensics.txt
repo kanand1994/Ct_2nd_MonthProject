@@ -1,0 +1,2 @@
+This is a sample forensic file. Replace with your challenge files.
+FLAG{example_flag}
